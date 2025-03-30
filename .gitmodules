@@ -1,0 +1,3 @@
+[submodule "project3/Recipe-Management-System"]
+	path = project3/Recipe-Management-System
+	url = https://github.com/jawad-zaidi-026/Recipe-Management-System.git
